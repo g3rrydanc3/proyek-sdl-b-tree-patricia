@@ -1,0 +1,65 @@
+D:\Users\ger_2\OneDrive\Code\SDL Project\SDL Project\bin\Debug\SDL Project.exe.config
+D:\Users\ger_2\OneDrive\Code\SDL Project\SDL Project\bin\Debug\SDL Project.exe
+D:\Users\ger_2\OneDrive\Code\SDL Project\SDL Project\bin\Debug\SDL Project.pdb
+D:\Users\ger_2\OneDrive\Code\SDL Project\SDL Project\bin\Debug\MySql.Data.dll
+D:\Users\ger_2\OneDrive\Code\SDL Project\SDL Project\obj\Debug\SDL Project.csprojResolveAssemblyReference.cache
+D:\Users\ger_2\OneDrive\Code\SDL Project\SDL Project\obj\Debug\SDL_Project.Form1.resources
+D:\Users\ger_2\OneDrive\Code\SDL Project\SDL Project\obj\Debug\SDL_Project.Properties.Resources.resources
+D:\Users\ger_2\OneDrive\Code\SDL Project\SDL Project\obj\Debug\SDL Project.csproj.GenerateResource.Cache
+D:\Users\ger_2\OneDrive\Code\SDL Project\SDL Project\obj\Debug\SDL Project.exe
+D:\Users\ger_2\OneDrive\Code\SDL Project\SDL Project\obj\Debug\SDL Project.pdb
+F:\sdl\SDL Project\SDL Project\bin\Debug\SDL Project.exe.config
+F:\sdl\SDL Project\SDL Project\obj\Debug\SDL Project.exe
+F:\sdl\SDL Project\SDL Project\obj\Debug\SDL Project.pdb
+F:\sdl\SDL Project\SDL Project\bin\Debug\SDL Project.exe
+F:\sdl\SDL Project\SDL Project\bin\Debug\SDL Project.pdb
+F:\sdl\SDL Project\SDL Project\bin\Debug\mscorlib.dll
+F:\sdl\SDL Project\SDL Project\bin\Debug\MySql.Data.dll
+F:\sdl\SDL Project\SDL Project\bin\Debug\normidna.nlp
+F:\sdl\SDL Project\SDL Project\bin\Debug\normnfc.nlp
+F:\sdl\SDL Project\SDL Project\bin\Debug\normnfd.nlp
+F:\sdl\SDL Project\SDL Project\bin\Debug\normnfkc.nlp
+F:\sdl\SDL Project\SDL Project\bin\Debug\normnfkd.nlp
+F:\sdl\SDL Project\SDL Project\obj\Debug\SDL Project.csprojResolveAssemblyReference.cache
+F:\sdl\SDL Project\SDL Project\obj\Debug\SDL_Project.Form1.resources
+F:\sdl\SDL Project\SDL Project\obj\Debug\SDL_Project.Properties.Resources.resources
+F:\sdl\SDL Project\SDL Project\obj\Debug\SDL Project.csproj.GenerateResource.Cache
+F:\sdl\SDL Project\SDL Project\obj\Debug\SDL_Project.Form2.resources
+F:\sdl\SDL Project\SDL Project\bin\Debug\System.Net.Http.dll
+F:\sdl\SDL Project\SDL Project\bin\Debug\System.Net.Http.xml
+C:\Users\alfon\Desktop\New folder\SDL Project\SDL Project\bin\Debug\SDL Project.exe.config
+C:\Users\alfon\Desktop\New folder\SDL Project\SDL Project\obj\Debug\SDL Project.exe
+C:\Users\alfon\Desktop\New folder\SDL Project\SDL Project\obj\Debug\SDL Project.pdb
+C:\Users\alfon\Desktop\New folder\SDL Project\SDL Project\bin\Debug\SDL Project.exe
+C:\Users\alfon\Desktop\New folder\SDL Project\SDL Project\bin\Debug\SDL Project.pdb
+C:\Users\alfon\Desktop\New folder\SDL Project\SDL Project\bin\Debug\mscorlib.dll
+C:\Users\alfon\Desktop\New folder\SDL Project\SDL Project\bin\Debug\System.Net.Http.dll
+C:\Users\alfon\Desktop\New folder\SDL Project\SDL Project\bin\Debug\System.Net.Http.xml
+C:\Users\alfon\Desktop\New folder\SDL Project\SDL Project\bin\Debug\normidna.nlp
+C:\Users\alfon\Desktop\New folder\SDL Project\SDL Project\bin\Debug\normnfc.nlp
+C:\Users\alfon\Desktop\New folder\SDL Project\SDL Project\bin\Debug\normnfd.nlp
+C:\Users\alfon\Desktop\New folder\SDL Project\SDL Project\bin\Debug\normnfkc.nlp
+C:\Users\alfon\Desktop\New folder\SDL Project\SDL Project\bin\Debug\normnfkd.nlp
+C:\Users\alfon\Desktop\New folder\SDL Project\SDL Project\obj\Debug\SDL Project.csprojResolveAssemblyReference.cache
+C:\Users\alfon\Desktop\New folder\SDL Project\SDL Project\obj\Debug\SDL_Project.Form1.resources
+C:\Users\alfon\Desktop\New folder\SDL Project\SDL Project\obj\Debug\SDL_Project.Form2.resources
+C:\Users\alfon\Desktop\New folder\SDL Project\SDL Project\obj\Debug\SDL_Project.Properties.Resources.resources
+C:\Users\alfon\Desktop\New folder\SDL Project\SDL Project\obj\Debug\SDL Project.csproj.GenerateResource.Cache
+D:\Tugas\Semester 4\Struktur Data Lanjut\SDL Project\SDL Project\bin\Debug\SDL Project.exe.config
+D:\Tugas\Semester 4\Struktur Data Lanjut\SDL Project\SDL Project\obj\Debug\SDL Project.exe
+D:\Tugas\Semester 4\Struktur Data Lanjut\SDL Project\SDL Project\obj\Debug\SDL Project.pdb
+D:\Tugas\Semester 4\Struktur Data Lanjut\SDL Project\SDL Project\bin\Debug\SDL Project.exe
+D:\Tugas\Semester 4\Struktur Data Lanjut\SDL Project\SDL Project\bin\Debug\SDL Project.pdb
+D:\Tugas\Semester 4\Struktur Data Lanjut\SDL Project\SDL Project\bin\Debug\mscorlib.dll
+D:\Tugas\Semester 4\Struktur Data Lanjut\SDL Project\SDL Project\bin\Debug\System.Net.Http.dll
+D:\Tugas\Semester 4\Struktur Data Lanjut\SDL Project\SDL Project\bin\Debug\System.Net.Http.xml
+D:\Tugas\Semester 4\Struktur Data Lanjut\SDL Project\SDL Project\bin\Debug\normidna.nlp
+D:\Tugas\Semester 4\Struktur Data Lanjut\SDL Project\SDL Project\bin\Debug\normnfc.nlp
+D:\Tugas\Semester 4\Struktur Data Lanjut\SDL Project\SDL Project\bin\Debug\normnfd.nlp
+D:\Tugas\Semester 4\Struktur Data Lanjut\SDL Project\SDL Project\bin\Debug\normnfkc.nlp
+D:\Tugas\Semester 4\Struktur Data Lanjut\SDL Project\SDL Project\bin\Debug\normnfkd.nlp
+D:\Tugas\Semester 4\Struktur Data Lanjut\SDL Project\SDL Project\obj\Debug\SDL Project.csprojResolveAssemblyReference.cache
+D:\Tugas\Semester 4\Struktur Data Lanjut\SDL Project\SDL Project\obj\Debug\SDL_Project.Form1.resources
+D:\Tugas\Semester 4\Struktur Data Lanjut\SDL Project\SDL Project\obj\Debug\SDL_Project.Form2.resources
+D:\Tugas\Semester 4\Struktur Data Lanjut\SDL Project\SDL Project\obj\Debug\SDL_Project.Properties.Resources.resources
+D:\Tugas\Semester 4\Struktur Data Lanjut\SDL Project\SDL Project\obj\Debug\SDL Project.csproj.GenerateResource.Cache
